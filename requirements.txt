@@ -1,0 +1,11 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+httpx==0.28.1
+ollama==0.5.3
+pydantic==2.11.7
+pydantic-settings==2.10.1
+python-multipart==0.0.20
+prometheus-client==0.23.1
+pillow==11.3.0
+pypdfium2==4.30.0
+pytest==8.4.1
